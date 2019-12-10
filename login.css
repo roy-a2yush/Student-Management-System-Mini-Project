@@ -1,0 +1,153 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(p1.jpg);
+	background-size: cover;
+	background-position: center;
+	font-family: sans-serif;
+	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  	background-position: center;
+}
+
+.loginbox{
+	width: 320px;
+	height: 420px;
+	background: #000;
+	color: #fff;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	opacity: 0.8;
+	padding: 70px 30px;
+
+}
+
+.avatar{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	opacity: 1;
+	position: absolute;
+	top: -50px;
+	left: calc(50% - 50px);
+}
+
+h1{
+	padding: 0;
+	margin: 0 0 20px;
+	text-align: center;
+	font-size: 32px;
+}
+
+.loginbox p{
+	padding: 0;
+	margin: 0;
+	opacity: 1;
+	font-weight: bold;
+}
+
+.loginbox input{
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.loginbox input[type="text"],  input[type="password"], input[type="email"], input[type="number"]
+{
+	border: none;
+	border-bottom: 1px solid #fff;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+}
+
+.loginbox input[type="Submit"]
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	background: #fb2525;
+	color: #fff;
+	font-size: 18px;
+	border-radius: 20px;
+}
+
+.loginbox input[type="submit"]:hover
+{
+	cursor: pointer;
+	background: #ffc107;
+	color: #000;
+}
+
+.loginnbox a{
+	text-decoration: none;
+	font-size: 12px;
+	line-height: 20px;
+	color: darkgrey;
+}
+
+.loginbox a:hover{
+	color: #ffc107;
+}
+
+.logout input
+{
+	border: none;
+	outline: none;
+	height: 40px;
+	background: #fb2525;
+	color: #fff;
+	font-size: 18px;
+	border-radius: 20px;
+}
+
+table, td, th {
+  border: 1.5px solid yellow;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  height: 50px;
+}
+
+.Menu ul
+{
+	list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  opacity: 0.8;
+}
+
+.Menu li
+{
+	float: left;
+}
+
+.Menu li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.Menu li a:hover {
+  background-color: red;
+}
+
+.Menu
+{
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
