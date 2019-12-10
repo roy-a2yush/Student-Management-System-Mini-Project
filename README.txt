@@ -1,4 +1,4 @@
-This project forms a part of the DBMS Mini project and is developed by Aayush Lal Roy(1cr17cs003) and Anusha D(1cr17cs013) of CMR Institute of Technology, Bangalore.
+This project forms a part of the DBMS Mini project and is developed by Aayush Lal Roy of CMR Institute of Technology, Bangalore.
 
 The project is titled as Student Management System.
 
