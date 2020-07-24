@@ -38,7 +38,7 @@
 	</div>
  	<div class="loginbox" style="height: 530px; top: 380px;">
 		<img src="p2.png" class="avatar">
-		<h4>Change Password</h4>
+		<h1>Change Password</h1>
 		<br>
 		<form action="#" method="POST">
 			<p>Enter current password</p>
