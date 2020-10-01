@@ -6,6 +6,8 @@ The project is titled as Student Management System.
 
 The main Purpose of this Project is for the admin to enter the newly enrolled students into the school data base, and create a login and password for him/her which can be later used by the students to view their respective results.
 
+This project helps the school to contact the students, especially in this pademic period where everything has come online. it is also very convinient for the students, the teachers and the school administration. 
+
 The admin can also enter a new teacher into the database, and assign a class to him/her of which he/she will be the class teacher and one of his/her job will be to enter the marks.
 The teacher can do so by logging into the portal with their username and password.
 
